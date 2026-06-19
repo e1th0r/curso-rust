@@ -21,3 +21,11 @@ Personal Rust course, learned from scratch, documented chapter by chapter.
 ### Index
 - [00 - Installation](00-instalacion/README.en.md)
 - 01 - Fundamentals *(coming soon)*
+
+---
+
+## Autor / Author
+Hector Colina ([@e1th0r](https://github.com/e1th0r))
+
+## Licencia / License
+MIT — ver [LICENSE](LICENSE)

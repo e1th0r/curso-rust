@@ -1,0 +1,32 @@
+Copyright (c) 2026 Hector Colina / Team360 <hector.colina@team360.cl>
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are
+the proprietary and confidential property of Hector Colina / Team360.
+The Software is licensed, not sold.
+
+NO PERMISSION IS GRANTED to any person to use, copy, modify, merge,
+publish, distribute, sublicense, and/or sell copies of the Software,
+or to permit persons to whom the Software is furnished to do so,
+except under the terms of a separate, explicit, written license
+agreement (a "SandboxERP Premium License") granted by Hector Colina /
+Team360.
+
+A valid SandboxERP Premium License grants the licensee a non-exclusive,
+non-transferable right to execute the Software solely through the
+official SandboxERP CLI (https://github.com/getsandboxerp/sandboxerp),
+subject to the terms of that license agreement. It does not grant any
+right to access, copy, modify, or redistribute the source code
+contained in this repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For licensing inquiries, contact hector.colina@team360.cl or visit
+https://sandboxerp.team360.cl.
