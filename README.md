@@ -10,7 +10,7 @@ Curso personal de Rust, aprendido desde cero, documentado capítulo a capítulo.
 
 ### Índice
 - [00 - Instalación](00-instalacion/README.es.md)
-- 01 - Fundamentos *(próximamente)*
+- [01 - Fundamentos: Cargo y tu primer programa](01-fundamentos/README.es.md)
 
 ---
 
@@ -20,7 +20,7 @@ Personal Rust course, learned from scratch, documented chapter by chapter.
 
 ### Index
 - [00 - Installation](00-instalacion/README.en.md)
-- 01 - Fundamentals *(coming soon)*
+- [01 - Fundamentals: Cargo and your first program](01-fundamentos/README.en.md)
 
 ---
 
